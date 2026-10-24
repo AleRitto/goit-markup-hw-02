@@ -1,0 +1,55 @@
+.header {
+    background-color: #ffffff;
+    padding: 24px 40px;
+}
+
+.logo-span {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #2e2f42;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: left;
+}
+
+.logo-list {
+    color: #4d5ae5;
+    text-align: left;
+}
+
+.nav-list {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+.nav-list li {
+    margin-bottom: 6px;
+}
+
+.nav-list a {
+    color: #2e2f42;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+ul  {
+    color: #2e2f42;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.contacts a {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+text-decoration: none;
+list-style-type: none;
+}
