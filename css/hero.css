@@ -1,7 +1,9 @@
 .hero {
     background: #2e2f42;
 }
-h1 {
+
+.hero-title {
+
 font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 56px;
@@ -9,18 +11,4 @@ line-height: 1.07143;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
-max-width: 496;
-height: 120;
-}
-
-.button {
-font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #fff;
-background-color: #4d5ae5;;
-width: 169;
-height: 56;
 }
