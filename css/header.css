@@ -8,16 +8,20 @@
 font-weight: 500;
 }
 
-.main-nav-link:hover
+.main-nav-link:hover,
 .main-nav-link:focus {
     color: #404bbf; 
 }
 
-.contacts-link:hover
+.contacts-link:hover,
 .main-nav-link:focus {
     color: #404bbf;
 }
 
 .contacts-link {
+   color: #434455;
+}
+
+address {
     font-style: normal;
 }
